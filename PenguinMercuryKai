@@ -16,7 +16,6 @@
 
 edited: 1/26
 developers:🐧 𝓟𝓮𝓷𝓰𝓾𝓲𝓷 🐧#4351
-
 ]]
 
 local TweenService = game:GetService("TweenService")
